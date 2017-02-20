@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/cadastro/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Educa + Brasil/Faculdade/P6/Programação Avançada para Web/1º estágio/Bibliotecas/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="D:/Educa + Brasil/Faculdade/P6/Programação Avançada para Web/1º estágio/Bibliotecas/c3p0-0.9.1.jar"/>
+	<classpathentry kind="lib" path="D:/Educa + Brasil/Faculdade/P6/Programação Avançada para Web/1º estágio/Bibliotecas/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Educa + Brasil/Faculdade/P6/Programação Avançada para Web/1º estágio/Bibliotecas/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Educa + Brasil/Faculdade/P6/Programação Avançada para Web/1º estágio/Bibliotecas/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Educa + Brasil/Faculdade/P6/Programação Avançada para Web/1º estágio/Bibliotecas/hibernate3.jar"/>
+	<classpathentry kind="lib" path="D:/Educa + Brasil/Faculdade/P6/Programação Avançada para Web/1º estágio/Bibliotecas/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Educa + Brasil/Faculdade/P6/Programação Avançada para Web/1º estágio/Bibliotecas/hibernate-testing.jar"/>
+	<classpathentry kind="lib" path="D:/Educa + Brasil/Faculdade/P6/Programação Avançada para Web/1º estágio/Bibliotecas/javassist-3.12.0.GA.jar"/>
+	<classpathentry kind="lib" path="D:/Educa + Brasil/Faculdade/P6/Programação Avançada para Web/1º estágio/Bibliotecas/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Educa + Brasil/Faculdade/P6/Programação Avançada para Web/1º estágio/Bibliotecas/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="D:/Educa + Brasil/Faculdade/P6/Programação Avançada para Web/1º estágio/Bibliotecas/oscache-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Educa + Brasil/Faculdade/P6/Programação Avançada para Web/1º estágio/Bibliotecas/postgresql-9.0-801.jdbc4.jar"/>
+	<classpathentry kind="lib" path="D:/Educa + Brasil/Faculdade/P6/Programação Avançada para Web/1º estágio/Bibliotecas/proxool-0.8.3.jar"/>
+	<classpathentry kind="lib" path="D:/Educa + Brasil/Faculdade/P6/Programação Avançada para Web/1º estágio/Bibliotecas/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Educa + Brasil/Faculdade/P6/Programação Avançada para Web/1º estágio/Bibliotecas/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Educa + Brasil/Faculdade/P6/Programação Avançada para Web/1º estágio/Bibliotecas/slf4j-simple-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Yuri/Documents/workspace/jars/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Yuri/Documents/workspace/jars/c3p0-0.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Yuri/Documents/workspace/jars/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Yuri/Documents/workspace/jars/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Yuri/Documents/workspace/jars/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Yuri/Documents/workspace/jars/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Yuri/Documents/workspace/jars/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Yuri/Documents/workspace/jars/hibernate-testing.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Yuri/Documents/workspace/jars/javassist-3.12.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Yuri/Documents/workspace/jars/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Yuri/Documents/workspace/jars/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Yuri/Documents/workspace/jars/oscache-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Yuri/Documents/workspace/jars/proxool-0.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Yuri/Documents/workspace/jars/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Yuri/Documents/workspace/jars/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Yuri/Documents/workspace/jars/slf4j-simple-1.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
